@@ -1,4 +1,4 @@
-# Real-Time Fraud Detection App
+# 📱 Real-Time Fraud Detection App
 
 This app uses a trained machine learning model to detect fraud in mobile financial transactions.
 
